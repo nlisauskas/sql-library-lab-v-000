@@ -39,4 +39,3 @@ INSERT INTO character_books (book_id, character_id) values (5, 1);
 INSERT INTO character_books (book_id, character_id) values (5, 2);
 INSERT INTO character_books (book_id, character_id) values (5, 3);
 INSERT INTO character_books (book_id, character_id) values (6, 1);
-
