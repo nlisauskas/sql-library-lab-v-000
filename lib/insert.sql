@@ -4,7 +4,7 @@ INSERT INTO series (title, author_id, subgenre_id) values ("Lord of the Rings", 
 INSERT INTO subgenres (name) values ("Wizardry")
 INSERT INTO subgenres (name) values ("Sci-fi")
 
-INSERT INTO authors (name) values
+INSERT INTO authors (name) values 
 INSERT INTO authors (name) values
 
 INSERT INTO books (title, year, series_id) values
