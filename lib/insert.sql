@@ -22,3 +22,21 @@ INSERT INTO characters  (name, motto, species, author_id, series_id) values ("TB
 INSERT INTO characters  (name, motto, species, author_id, series_id) values ("TBD", "TBD", "Human", 2, 2);
 INSERT INTO characters  (name, motto, species, author_id, series_id) values ("TBD", "TBD", "Human", 2, 2);
 INSERT INTO characters  (name, motto, species, author_id, series_id) values ("TBD", "TBD", "Human", 2, 2);
+
+INSERT INTO character_books (book_id, character_id) values (1, 1);
+INSERT INTO character_books (book_id, character_id) values (1, 2);
+INSERT INTO character_books (book_id, character_id) values (1, 3);
+INSERT INTO character_books (book_id, character_id) values (2, 1);
+INSERT INTO character_books (book_id, character_id) values (2, 2);
+INSERT INTO character_books (book_id, character_id) values (2, 3);
+INSERT INTO character_books (book_id, character_id) values (3, 1);
+INSERT INTO character_books (book_id, character_id) values (3, 2);
+INSERT INTO character_books (book_id, character_id) values (3, 3);
+INSERT INTO character_books (book_id, character_id) values (4, 1);
+INSERT INTO character_books (book_id, character_id) values (4, 2);
+INSERT INTO character_books (book_id, character_id) values (4, 3);
+INSERT INTO character_books (book_id, character_id) values (5, 1);
+INSERT INTO character_books (book_id, character_id) values (5, 2);
+INSERT INTO character_books (book_id, character_id) values (5, 3);
+INSERT INTO character_books (book_id, character_id) values (6, 1);
+
